@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T18:02:34+00:00",
+  "scraped_at": "2026-09-30T01:13:03+00:00",
   "count": 4,
   "matches": [
     {
@@ -9,21 +9,9 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/convene/jobs/8180337",
       "company": "Convene Hospitality Group",
-      "scraped_at": "2026-09-29T18:02:34+00:00",
+      "scraped_at": "2026-09-30T01:13:03+00:00",
       "pay": "$55/hour with 10 hour minimum guarantee per shift ($550 day rate minimum)",
       "pitch": "Pitch freelance A1: live mixing, RF coordination, Dante/AES67",
-      "first_seen": "2026-09-28T04:03:17+00:00"
-    },
-    {
-      "key": "gh:convene:8187134",
-      "title": "Audio Visual Supervisor, Live Events",
-      "company_board": "convene",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/convene/jobs/8187134",
-      "company": "Convene Hospitality Group",
-      "scraped_at": "2026-09-29T18:02:34+00:00",
-      "pay": "$80,000 - $90,000",
-      "pitch": "Pitch crew leadership / production management",
       "first_seen": "2026-09-28T04:03:17+00:00"
     },
     {
@@ -33,10 +21,22 @@
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/convene/jobs/8180353",
       "company": "Convene Hospitality Group",
-      "scraped_at": "2026-09-29T18:02:34+00:00",
+      "scraped_at": "2026-09-30T01:13:03+00:00",
       "pay": "$55/hour with 10 hour minimum guarantee per shift ($550 day rate minimum)",
       "pitch": "Pitch lighting tech: fixtures, control, live looks",
       "first_seen": "2026-09-28T04:03:17+00:00"
+    },
+    {
+      "key": "gh:convene:8240618",
+      "title": "V1 Video Engineer, Live Events",
+      "company_board": "convene",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/convene/jobs/8240618",
+      "company": "Convene Hospitality Group",
+      "scraped_at": "2026-09-30T01:13:03+00:00",
+      "pay": "$55/hour with a guaranteed 10-hour minimum per shift",
+      "pitch": "Pitch V1: switching, LED walls, projection playback",
+      "first_seen": "2026-09-30T01:13:03+00:00"
     },
     {
       "key": "gh:feverup:4948107101",
@@ -45,7 +45,7 @@
       "location": "New York",
       "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4948107101",
       "company": "Fever (live events)",
-      "scraped_at": "2026-09-29T18:02:34+00:00",
+      "scraped_at": "2026-09-30T01:13:03+00:00",
       "pay": "$500/day",
       "pitch": "Pitch freelance AV engineering services",
       "first_seen": "2026-09-28T04:03:30+00:00"
